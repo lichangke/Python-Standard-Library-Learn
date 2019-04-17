@@ -20,3 +20,7 @@ parse(format_string)
 
 # [Format String Syntax.py](https://github.com/lichangke/Python-Standard-Library-Learn/blob/master/Text%20Processing%20Services/string%20%E2%80%94%20Common%20string%20operations/Format%20String%20Syntax.py)
 格式字符串语法示例
+
+# [Template strings.py](https://github.com/lichangke/Python-Standard-Library-Learn/blob/master/Text%20Processing%20Services/string%20%E2%80%94%20Common%20string%20operations/Template%20strings.py)
+介绍了模板字符串的规则
+介绍了class string.Template(template) 类中的 substitute(mapping, **kwds) 和 safe_substitute(mapping, **kwds) 方法 
