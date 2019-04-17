@@ -21,7 +21,7 @@ import string
 @Return: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 '''
 # ascii_letters     大小写字母常数
-print(string.ascii_letters)
+print(string.ascii_letters)	#abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 '''
 @Description: The lowercase letters 'abcdefghijklmnopqrstuvwxyz'.
@@ -29,7 +29,7 @@ print(string.ascii_letters)
 @Return: abcdefghijklmnopqrstuvwxyz
 '''
 # ascii_lowercase   小写字母常数   
-print(string.ascii_lowercase)
+print(string.ascii_lowercase) #abcdefghijklmnopqrstuvwxyz
 
 '''
 @Description: The uppercase letters 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'. 

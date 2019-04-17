@@ -35,7 +35,7 @@ format_string: 需要去格式化的目标字符串
 @Return: 
 '''
 # string.Formatter.format(format_string, *args, **kwargs)
-data = ["Pi = ",3.1415926]
+data = ("Pi = ",3.1415926)
 strtmp = "This is a test:{}{:.4f}"
 formatter  = string.Formatter()
 strtmp = formatter.format(strtmp,*data) # 元组
@@ -61,7 +61,7 @@ kwargs: 关键字参数 字典
 '''
 # string.Formatter.vformat(format_string, args, kwargs)
 # 注意 Formatter.vformat的参数不是 (*args, **kwargs) 而是 (args, kwargs)
-data = ["Pi = ",3.1415926]
+data = ("Pi = ",3.1415926)
 strtmp = "This is a test:{}{:.4f}"
 formatter  = string.Formatter()
 strtmp = formatter.vformat(strtmp,data,{}) # 元组
