@@ -1,4 +1,4 @@
-这里介绍标准库中string --- 常见的字符串操作的相关内容
+这里介绍标准库中string --- 常见的字符串操作的相关内容 Source code:  [Lib/string.py](https://github.com/python/cpython/blob/3.7/Lib/string.py)
 
 包含：
 
