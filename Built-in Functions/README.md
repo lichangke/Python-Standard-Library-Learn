@@ -1,7 +1,11 @@
 *Python Standard Library based on Python 3.7.3 [https://docs.python.org/3/library/](https://links.jianshu.com/go?to=https%3A%2F%2Fdocs.python.org%2F3%2Flibrary%2F)*
 >Python标准库 - 内置函数
+
 >Link: [https://docs.python.org/3/library/functions.html](https://docs.python.org/3/library/functions.html)
+
 >说明 print 后的 # 注释为输出和相关说明，包含所有 Python3.7.3 官方文档中的内置函数
+
+>GitHub Code : [Built-in Functions.py](https://github.com/lichangke/Python-Standard-Library-Learn/blob/master/Built-in%20Functions/Built-in%20Functions.py)
 
 ## abs(x) 
 ```python
@@ -1580,10 +1584,14 @@ print(type(a1)) # <class 'tuple'>
 ----
 >*GitHub链接：*
 >*[https://github.com/lichangke/LeetCode](https://github.com/lichangke/LeetCode)*
+
 >*知乎个人首页：*
 >*[https://www.zhihu.com/people/lichangke/](https://www.zhihu.com/people/lichangke/)*
+
 >*简书个人首页：*
 >*[https://www.jianshu.com/u/3e95c7555dc7](https://www.jianshu.com/u/3e95c7555dc7)*
+
 >*个人Blog:*
 >*[https://lichangke.github.io/](https://lichangke.github.io/)*
+
 >*欢迎大家来一起交流学习*
