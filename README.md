@@ -6,6 +6,9 @@
 ## Built-in Functions 内置函数
 [Built-in Functions](https://github.com/lichangke/Python-Standard-Library-Learn/tree/master/Built-in%20Functions)
 
+## Built-in Exceptions 内置异常
+[Built-in Exceptions](https://github.com/lichangke/Python-Standard-Library-Learn/tree/master/Built-in%20Exceptions)
+
 ## Text Processing Services 文本处理服务
 ### string — Common string operations 常见的字符串操作
 [string — Common string operations](https://github.com/lichangke/Python-Standard-Library-Learn/tree/master/Text%20Processing%20Services/string%20%E2%80%94%20Common%20string%20operations)
