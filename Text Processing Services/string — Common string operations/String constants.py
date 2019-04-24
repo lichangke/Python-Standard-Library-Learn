@@ -21,7 +21,7 @@ import string
 @Return: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 '''
 # ascii_letters     大小写字母常数
-print(string.ascii_letters)	#abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+print(string.ascii_letters)	# abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 '''
 @Description: The lowercase letters 'abcdefghijklmnopqrstuvwxyz'.
@@ -29,7 +29,7 @@ print(string.ascii_letters)	#abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXY
 @Return: abcdefghijklmnopqrstuvwxyz
 '''
 # ascii_lowercase   小写字母常数   
-print(string.ascii_lowercase) #abcdefghijklmnopqrstuvwxyz
+print(string.ascii_lowercase) # abcdefghijklmnopqrstuvwxyz
 
 '''
 @Description: The uppercase letters 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'. 
@@ -37,7 +37,7 @@ print(string.ascii_lowercase) #abcdefghijklmnopqrstuvwxyz
 @Return: ABCDEFGHIJKLMNOPQRSTUVWXYZ
 '''
 # ascii_uppercase   大写字母常数
-print(string.ascii_uppercase)
+print(string.ascii_uppercase)	# ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 '''
 @Description: The string '0123456789'
@@ -45,7 +45,7 @@ print(string.ascii_uppercase)
 @Return: 0123456789
 '''
 # digits    十进制数字常数
-print(string.digits)
+print(string.digits)	# 0123456789
 
 '''
 @Description: The string '0123456789abcdefABCDEF'.
@@ -53,7 +53,7 @@ print(string.digits)
 @Return: 0123456789abcdefABCDEF
 '''
 # hexdigits     十六进制数字常数
-print(string.hexdigits)
+print(string.hexdigits)	 # 0123456789abcdefABCDEF
 
 '''
 @Description: The string '01234567'.
@@ -61,7 +61,7 @@ print(string.hexdigits)
 @Return: 01234567
 '''
 # octdigits     八进制数字常数
-print(string.octdigits)
+print(string.octdigits)	# 01234567
 
 '''
 @Description: String of ASCII characters which are considered punctuation characters in the C locale.
@@ -69,7 +69,7 @@ print(string.octdigits)
 @Return: !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 '''
 # punctuation   ASCII字符串，在C语言环境中被视为标点字符
-print(string.punctuation)
+print(string.punctuation)	# !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
 '''
 @Description: String of ASCII characters which are considered printable. This is a combination of digits, ascii_letters, punctuation, and whitespace.
@@ -85,7 +85,7 @@ print(string.printable)
 @Return: 字符空间，制表符，换行符，返回页面，换页符和垂直选项卡
 '''
 # whitespace    包含所有被视为空格的ASCII字符的字符串
-print(string.whitespace)
+print(string.whitespace) # 字符空间，制表符，换行符，返回页面，换页符和垂直选项卡
 # this code block shows string constants end
 
 
