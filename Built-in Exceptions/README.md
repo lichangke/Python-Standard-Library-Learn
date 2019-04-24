@@ -10,6 +10,7 @@
 
 >异常基本操作 可参考 http://www.runoob.com/python3/python3-errors-execptions.html
 
+>GitHub Code : [Built-in Exceptions.py](https://github.com/lichangke/Python-Standard-Library-Learn/blob/master/Built-in%20Exceptions/Built-in%20Exceptions.py)
 
 # Exception hierarchy
 # 异常层次结构
@@ -60,6 +61,7 @@ Exception hierarchy End
 '''
 # exception LookupError End
 ```
+
 基类 End
 
 
@@ -663,6 +665,7 @@ exception WindowsError
 '''
 # 保留以下异常以与先前版本兼容;从Python 3.3开始，它们是OSError的别名。 End
 ```
+
 具体异常 End
 
 
@@ -1032,6 +1035,7 @@ Unicode 相关的警告基类
 '''
 # exception ResourceWarning End
 ```
+
 Warnings End
 
 
